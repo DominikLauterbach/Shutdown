@@ -1,0 +1,9 @@
+C:\Users\d.lauterbacher\Desktop\test\ShutdownIn\ShutdownIn\ShutdownIn\obj\Debug\ShutdownIn.csproj.AssemblyReference.cache
+C:\Users\d.lauterbacher\Desktop\test\ShutdownIn\ShutdownIn\ShutdownIn\obj\Debug\ShutdownIn.Properties.Resources.resources
+C:\Users\d.lauterbacher\Desktop\test\ShutdownIn\ShutdownIn\ShutdownIn\obj\Debug\ShutdownIn.csproj.GenerateResource.cache
+C:\Users\d.lauterbacher\Desktop\test\ShutdownIn\ShutdownIn\ShutdownIn\obj\Debug\ShutdownIn.csproj.CoreCompileInputs.cache
+C:\Users\d.lauterbacher\Desktop\test\ShutdownIn\ShutdownIn\ShutdownIn\bin\Debug\ShutdownIn.exe.config
+C:\Users\d.lauterbacher\Desktop\test\ShutdownIn\ShutdownIn\ShutdownIn\bin\Debug\ShutdownIn.exe
+C:\Users\d.lauterbacher\Desktop\test\ShutdownIn\ShutdownIn\ShutdownIn\bin\Debug\ShutdownIn.pdb
+C:\Users\d.lauterbacher\Desktop\test\ShutdownIn\ShutdownIn\ShutdownIn\obj\Debug\ShutdownIn.exe
+C:\Users\d.lauterbacher\Desktop\test\ShutdownIn\ShutdownIn\ShutdownIn\obj\Debug\ShutdownIn.pdb
